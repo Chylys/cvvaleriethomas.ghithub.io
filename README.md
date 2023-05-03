@@ -1,2 +1,2 @@
-# cvvaleriethomas.hithub.io
+# cvvaleriethomas.ghithub.io
 CV de Valerie Thomas
